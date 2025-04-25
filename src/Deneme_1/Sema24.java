@@ -6,6 +6,6 @@ public class Sema24 {
 
         System.out.println("hello from new jersey");
 
-        System.out.println("I'm learning java");
+        System.out.println("I'm Sema and I'm learning java");
     }
 }
